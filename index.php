@@ -35,11 +35,11 @@ try {                                      //
 
 // echo '<h1><a href="https://intranet.company_name.net/backup/' . $filePuth . '" target="_blank">' . $filePuth . '</a></h1>';
 
-// https://intranet.company_name.net/backup/?data=all
-// https://intranet.company_name.net/backup/?data=lineasalidamercancia
-// https://intranet.company_name.net/backup/?data=paletas
-// https://intranet.company_name.net/backup/?data=tarea
-// https://intranet.company_name.net/backup/createzip.php
+// https://subdomain.company_name.net/backup/?data=all
+// https://subdomain.company_name.net/backup/?data=lineasalidamercancia
+// https://subdomain.company_name.net/backup/?data=paletas
+// https://subdomain.company_name.net/backup/?data=tarea
+// https://subdomain.company_name.net/backup/createzip.php
 
-// el problema de hora diferente cada vez que, si alguien encuetra la ruta puede crear archivos de backup cada minuto
+
 
