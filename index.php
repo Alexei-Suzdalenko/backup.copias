@@ -33,7 +33,7 @@ try {                                      //
 
 
 
-// echo '<h1><a href="https://intranet.company_name.net/backup/' . $filePuth . '" target="_blank">' . $filePuth . '</a></h1>';
+// echo '<h1><a href="https://subdomain.company_name.net/backup/' . $filePuth . '" target="_blank">' . $filePuth . '</a></h1>';
 
 // https://subdomain.company_name.net/backup/?data=all
 // https://subdomain.company_name.net/backup/?data=lineasalidamercancia
